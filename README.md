@@ -1,5 +1,5 @@
 The AT&amp;T API Platform Microsoft SDK:
-=======================================
+========================================
 
 The AT&amp;T API Platform SDK for Microsoft® leverages the power of the Microsoft® .NET platform 
 and AT&amp;T services so that developers can quickly bring robust C# and Visual Basic applications to market.
