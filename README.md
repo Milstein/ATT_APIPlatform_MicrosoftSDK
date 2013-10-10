@@ -5,7 +5,7 @@ The AT&amp;T API Platform SDK for Microsoft® leverages the power of the Microso
 and AT&amp;T services so that developers can quickly bring robust C# and Visual Basic applications to market.
 Wrapper class libraries in SDK include the following APIs:
 
-Speech API
+Speech API <br/>
 Speech To Text Custom API
 Location API
 MMS API
